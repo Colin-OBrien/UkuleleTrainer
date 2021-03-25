@@ -14,7 +14,6 @@ canvas.create_image(75,50, anchor=NW, image=img)
 mainloop()
 """
 
-
 #Sg.Window(title='Ukulele Trainer', layout=[[]], margins=(150, 100)).read()
 
 chord_in_key = {
